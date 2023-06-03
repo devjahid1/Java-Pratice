@@ -6,6 +6,5 @@ public class class8 {
         int a = 9;
         int b = 10 + a;
         System.out.println(b);
-        
     }
 }
