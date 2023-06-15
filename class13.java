@@ -13,6 +13,10 @@ public class class13 {
        // System.out.println(a.startsWith("Har"));
        // System.out.println(a.endsWith("ry"));
        // System.out.println(a.charAt(4));
+       // String modifiedName = "Jahid";
+       // System.out.println(modifiedName.indexOf("hid"));
+       // System.out.println(modifiedName.indexOf("hid", 1));
+       // System.out.println(a.equals("Harry"));
 
     }
 }
